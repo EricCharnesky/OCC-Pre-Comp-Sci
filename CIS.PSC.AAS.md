@@ -3,7 +3,7 @@ The Pre-Computer Science program provides students with the academic foundation 
 
 Students are strongly encouraged to work with an advisor at the desired transfer institution and an OCC counselor to select courses that will maximize their applicability upon transfer.   
 
-It should be noted that many institutions will take more than the 63 to 67 credits required for the degree (upwards of 80 credits), and students should consider taking additional courses to maximize the transferable credit into a given engineering discipline saving money.
+It should be noted that many institutions will take more than the 62 credits required for the degree (upwards of 80 credits), and students should consider taking additional courses to maximize the transferable credit into a given engineering discipline saving money.
 
 Graduating from this program qualifies the student for the Michigan Transfer Agreement (MTA) endorsement and Computer Science Pathway.  All courses that satisfy MTA requirements must be completed with a grade of "C" (2.0) or higher.  Because transferability of credits varies with colleges and universities, programs, and departmental majors, students are urged to review/discuss their program plans with the intended transfer institution.  
 
