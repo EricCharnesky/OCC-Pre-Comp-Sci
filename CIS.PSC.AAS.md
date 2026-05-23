@@ -16,7 +16,7 @@ Students who complete the degree are well qualified to work at an entry-level po
 | Pathway Requirements | Credit Hours | Course |
 |----------|----------|----------|
 | Programming 1 | 4 | CIS 2131 - Python Programming |
-| Programming 2 | 4 | CIS 2353 - Data Strucures |
+| Programming 2 | 4 | CIS 2353 - Data Strucutres |
 | Data Structures | 4 | CIS 2390 - Advanced Data Structures and Algorithms Analysis |
 | Computer Organization | 4 | CIS 2564 - Computer Organization, Architecture, and Assembly Language |
 | Discrete Mathematics | 4 | CIS 2241 - Discrete Structures |
