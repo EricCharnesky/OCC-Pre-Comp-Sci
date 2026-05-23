@@ -13,7 +13,7 @@ Students who complete the degree are well qualified to work at an entry-level po
 
 ## Major Requirements
 
-| Distribution Requirements | Credit Hours | Course |
+| Pathway Requirements | Credit Hours | Course |
 |----------|----------|----------|
 | Programming 1 | 4 | CIS 2131 - Python Programming |
 | Programming 2 | 4 | CIS 2353 - Data Strucures |
@@ -28,7 +28,7 @@ Students who complete the degree are well qualified to work at an entry-level po
 
 ## Required Supporting Courses ( MTA General Education Category )
 
-| Distribution Requirements | Credit Hours | Course |
+| Pathway Requirements | Credit Hours | Course |
 |------------|------------|------------|
 | English Composition (Writing) | 3 credits | ENG 1510 - Comp I |
 | English Composition or Communications | 3 credits | ENG 1520 - Comp II |
