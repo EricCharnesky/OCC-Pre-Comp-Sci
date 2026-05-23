@@ -38,5 +38,3 @@ Students must meet the requirements set by the institution to which they plan on
 
 **Total Credits: 62**
 
-
-- 
