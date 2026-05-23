@@ -38,7 +38,7 @@ Students must meet the requirements set by the institution to which they plan on
 | English Composition or Communications | 3 credits | ENG 1520 - Comp II |
 | Mathematics | 4 credits (1 course minimum) | MAT 1720 - Calculus I |
 | Social Sciences | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
-| Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | COM 1290 - Interpersonal Communication<br>Student choice (Not COMM) |
+| Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
 | Natural Sciences (1 must include a lab) | 6+ credits (2 courses from 2 disciplines)<br>Total: 7–8 credits | PHY 2400- Engineering Physics I(Calc-based)<br>Student choice (Not Physics) |
 
 **Credits: 30**  
