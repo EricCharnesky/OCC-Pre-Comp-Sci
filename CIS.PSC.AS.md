@@ -8,6 +8,13 @@ Many institutions will accept more than the 62 credits required for this degree 
 Graduating from this program qualifies the student for the Michigan Transfer Agreement (MTA) endorsement and Computer Science Pathway.  All courses that satisfy MTA requirements must be completed with a grade of "C" (2.0) or higher.  Because transferability of credits varies with colleges and universities, programs, and departmental majors, students are urged to review/discuss their program plans with the intended transfer institution.  
 
 Students must meet the requirements set by the institution to which they plan on transferring to. Completing the Pre-Computer Science degree does not guarantee acceptance at another college or university.  
+
+## Program Outcomes
+- Students will design, implement, test, and document software solutions using appropriate programming concepts, development practices, and problem-solving strategies.
+- Students will apply data structures, algorithms, and algorithm analysis techniques to evaluate and solve computational problems.
+- Students will apply mathematical, logical, and computer systems concepts to reason about computation, program behavior, and computer science problems.
+
+
 ## Major Requirements
 
 | Pathway Requirements | Credit Hours | Course |
