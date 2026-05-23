@@ -3,7 +3,7 @@ The Pre-Computer Science program provides students with the academic foundation 
 
 Students are strongly encouraged to work with an advisor at the desired transfer institution and an OCC counselor to select courses that will maximize their applicability upon transfer.   
 
-It should be noted that many institutions will take more than the 62 credits required for the degree (upwards of 80 credits), and students should consider taking additional courses to maximize the transferable credit into a given engineering discipline saving money.
+Many institutions will accept more than the 62 credits required for this degree (sometimes upwards of 80 credits). Students should consider taking additional courses to maximize transferable credit toward their intended computer science program and potentially reduce the overall cost of completing a bachelor's degree.
 
 Graduating from this program qualifies the student for the Michigan Transfer Agreement (MTA) endorsement and Computer Science Pathway.  All courses that satisfy MTA requirements must be completed with a grade of "C" (2.0) or higher.  Because transferability of credits varies with colleges and universities, programs, and departmental majors, students are urged to review/discuss their program plans with the intended transfer institution.  
 
@@ -16,7 +16,7 @@ Students who complete the degree are well qualified to work at an entry-level po
 | Pathway Requirements | Credit Hours | Course |
 |----------|----------|----------|
 | Programming 1 | 4 | CIS 2131 - Python Programming |
-| Programming 2 | 4 | CIS 2353 - Data Strucutres |
+| Programming 2 | 4 | CIS 2353 - Data Structures |
 | Data Structures | 4 | CIS 2390 - Advanced Data Structures and Algorithms Analysis |
 | Computer Organization | 4 | CIS 2564 - Computer Organization, Architecture, and Assembly Language |
 | Discrete Mathematics | 4 | CIS 2241 - Discrete Structures |
@@ -34,7 +34,7 @@ Students who complete the degree are well qualified to work at an entry-level po
 | English Composition or Communications | 3 credits | ENG 1520 - Comp II |
 | Mathematics | 4 credits (1 course minimum) | MAT 1720 - Calculus I |
 | Social Sciences | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
-| Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | COM 1290 - Interpersonal Commnication<br>Student choice (Not COMM) |
+| Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | COM 1290 - Interpersonal Communication<br>Student choice (Not COMM) |
 | Natural Sciences (1 must include a lab) | 6+ credits (2 courses from 2 disciplines)<br>Total: 7–8 credits | PHY 2400- Engineering Physics I(Calc-based)<br>Student choice (Not Physics) |
 
 **Credits: 30**  
