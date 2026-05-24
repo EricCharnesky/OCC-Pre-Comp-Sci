@@ -39,9 +39,69 @@ Students must meet the requirements set by the institution to which they plan on
 | Mathematics | 4 credits (1 course minimum) | MAT 1720 - Calculus I |
 | Social Sciences | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
 | Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
-| Natural Sciences (1 must include a lab) | 6+ credits (2 courses from 2 disciplines)<br>Total: 7–8 credits | PHY 2400- Engineering Physics I(Calc-based)<br>Student choice (Not Physics) |
+| Natural Sciences (1 must include a lab) | 6+ credits (2 courses from 2 disciplines)<br>Total: 8 credits | PHY 2400- Engineering Physics I(Calc-based)<br>Student choice (Not Physics) |
 
 **Credits: 30**  
 
 **Total Credits: 62**
 
+
+## Program Plan Full Time
+
+### Year 1 – Fall Semester
+
+| Course | Credits |
+|---------|---------:|
+| ENG 1510 - Composition I | 3 |
+| MAT 1720 - Calculus I | 4 |
+| Natural Science Elective (Non-Physics) | 3-4 |
+| Humanities/Fine Arts Elective #1 | 3 |
+
+**Semester Total: 13-14 Credits**
+
+---
+
+### Year 1 – Winter Semester
+
+| Course | Credits |
+|---------|---------:|
+| ENG 1520 - Composition II | 3 |
+| MAT 1740 - Calculus II | 4 |
+| Humanities/Fine Arts Elective #2 | 3 |
+| Social Science Elective #1 | 3 |
+
+**Semester Total: 13 Credits**
+
+---
+
+### Year 2 – Fall Semester
+
+| Course | Credits |
+|---------|---------:|
+| MAT 2600 - Statistics for Engineers and Scientists | 4 |
+| MAT 2880 - Linear Algebra | 4 |
+| CIS 2131 - Python Programming | 4 |
+**Semester Total: 12 Credits**
+
+---
+
+### Year 2 – Winter Semester
+
+| Course | Credits |
+|---------|---------:|
+| PHY 2400 - Engineering Physics I (Calculus-Based) | 5 |
+| Social Science Elective #2 | 3 |
+| CIS 2353 - Data Structures | 4 |
+
+**Semester Total: 12 Credits**
+
+---
+
+### Year 2 - Summer Semester
+| Course | Credits |
+|---------|---------:|
+| CIS 2241 - Discrete Structures | 4 |
+| CIS 2390 - Advanced Data Structures and Algorithms Analysis | 4 |
+| CIS 2564 - Computer Organization, Architecture, and Assembly Language | 4 |
+
+**Semester Total: 12 Credits**
