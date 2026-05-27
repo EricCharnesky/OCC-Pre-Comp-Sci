@@ -21,8 +21,8 @@ Students must meet the requirements set by the institution to which they plan on
 |----------|----------|----------|
 | Programming 1 | 4 | CIS 2131 - Python Programming |
 | Programming 2 | 4 | CIS 2353 - Data Structures |
-| Data Structures | 4 | CIS 2390 - Advanced Data Structures and Algorithms Analysis |
-| Computer Organization | 4 | CIS 2564 - Computer Organization, Architecture, and Assembly Language |
+| Data Structures | 4 | ( new ) CIS 2390 - Advanced Data Structures and Algorithms Analysis |
+| Computer Organization | 4 | ( new ) CIS 2564 - Computer Organization, Architecture, and Assembly Language |
 | Discrete Mathematics | 4 | CIS 2241 - Discrete Structures |
 | Statistics (Calc-based) | 4 | MAT 2600 - Statistics for Engineers and Scientists |
 | Calculus II | 4 | MAT 1740 - Calc 2 |
