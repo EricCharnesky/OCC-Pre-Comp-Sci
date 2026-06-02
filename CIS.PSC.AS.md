@@ -35,7 +35,7 @@ Students must meet the requirements set by the institution to which they plan on
 | Pathway Requirements | Credit Hours | Course |
 |------------|------------|------------|
 | English Composition (Writing) | 3 credits | ENG 1510 - Comp I |
-| English Composition or Communications | 3 credits | ENG 1520 - Comp II |
+| Communications | 3 credits | ENG 1520 - Comp II |
 | Mathematics | 4 credits (1 course minimum) | MAT 1730 - Calculus I |
 | Social Sciences | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
 | Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
