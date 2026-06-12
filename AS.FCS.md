@@ -24,10 +24,10 @@ Students must meet the requirements set by the institution to which they plan on
 | Data Structures | 4 | ( new ) CIS 2390 - Advanced Data Structures and Algorithms Analysis |
 | Computer Organization | 4 | ( new ) CIS 2564 - Computer Organization, Architecture, and Assembly Language |
 | Discrete Mathematics | 4 | CIS 2241 - Discrete Structures |
-| Statistics (Calc-based) | 4 | MAT 2600 - Statistics for Engineers and Scientists |
 | Calculus I | 4 | MAT 1730 - Calc 1 |
 | Calculus II | 4 | MAT 1740 - Calc 2 |
 | Linear Algebra | 4 | MAT 2880 - Linear Algebra |
+| Statistics (Calc-based) | 4 | MAT 2600 - Statistics for Engineers and Scientists |
 
 **Credits: 36**
 
