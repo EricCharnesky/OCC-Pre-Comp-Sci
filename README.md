@@ -1,6 +1,6 @@
 # 2027-2028 Catalog Change Prosoal
 
-New [Computer Information Systems - Pre-Computer Science - Associate of Science](CIS.PSC.AS.md)
+New [Associate of Science - Foundations of Computer Science](AS.FCS.md)
 
 New [CIS 2390 - Advanced Data Structures & Algorithms Analysis](CIS-2390.md)
 
