@@ -25,10 +25,11 @@ Students must meet the requirements set by the institution to which they plan on
 | Computer Organization | 4 | ( new ) CIS 2564 - Computer Organization, Architecture, and Assembly Language |
 | Discrete Mathematics | 4 | CIS 2241 - Discrete Structures |
 | Statistics (Calc-based) | 4 | MAT 2600 - Statistics for Engineers and Scientists |
+| Calculus I | 4 | MAT 1730 - Calc 1 |
 | Calculus II | 4 | MAT 1740 - Calc 2 |
 | Linear Algebra | 4 | MAT 2880 - Linear Algebra |
 
-**Credits: 32**
+**Credits: 36**
 
 ## Required Supporting Courses ( MTA General Education Category )
 
@@ -36,12 +37,12 @@ Students must meet the requirements set by the institution to which they plan on
 |------------|------------|------------|
 | English Composition (Writing) | 3 credits | ENG 1510 - Comp I |
 | Communications | 3 credits | ENG 1520 - Comp II |
-| Mathematics | 4 credits (1 course minimum) | MAT 1730 - Calculus I |
+| Mathematics | Satisfied | Satisfied |
 | Social Sciences | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
 | Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
 | Natural Sciences (1 must include a lab) | 6+ credits (2 courses from 2 disciplines)<br>Total: 8 credits | PHY 2400- Engineering Physics I<br>Student choice (Not Physics) |
 
-**Credits: 30**  
+**Credits: 26**  
 
 **Total Credits: 62**
 
