@@ -1,4 +1,4 @@
-# Associate of Science - Foundations of Computer Science - Computer Information Systems
+# Associate of Science - Foundations of Computer Science
 The Pre-Computer Science program provides students with the academic foundation needed for transfer to a bachelor’s degree program in computer science and meets the statewide Computer Science Pathway requirements.  
 
 Students are strongly encouraged to work with an advisor at the desired transfer institution and an OCC counselor to select courses that will maximize their applicability upon transfer.   
