@@ -1,5 +1,5 @@
 # Associate of Science - Foundations of Computer Science
-The Pre-Computer Science program provides students with the academic foundation needed for transfer to a bachelor’s degree program in computer science and meets the statewide Computer Science Pathway requirements.  
+The Foundations of Computer Science program provides students with the academic foundation needed for transfer to a bachelor’s degree program in computer science and meets the statewide Computer Science Pathway requirements.  
 
 Students are strongly encouraged to work with an advisor at the desired transfer institution and an OCC counselor to select courses that will maximize their applicability upon transfer.   
 
@@ -7,7 +7,7 @@ Many institutions will accept more than the 62 credits required for this degree 
 
 Graduating from this program qualifies the student for the Michigan Transfer Agreement (MTA) endorsement and Computer Science Pathway.  All courses that satisfy MTA requirements must be completed with a grade of "C" (2.0) or higher.  Because transferability of credits varies with colleges and universities, programs, and departmental majors, students are urged to review/discuss their program plans with the intended transfer institution.  
 
-Students must meet the requirements set by the institution to which they plan on transferring to. Completing the Pre-Computer Science degree does not guarantee acceptance at another college or university.  
+Students must meet the requirements set by the institution to which they plan on transferring to. Completing the Foundations of Computer Science degree does not guarantee acceptance at another college or university.  
 
 ## Program Outcomes
 - Students will design, implement, test, and document software solutions using appropriate programming concepts, development practices, and problem-solving strategies.
