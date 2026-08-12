@@ -19,7 +19,7 @@ Students must meet the requirements set by the institution to which they plan on
 
 | Pathway Requirements | Credit Hours | Course |
 |----------|----------|----------|
-| Programming 1 | 4 | CIS 2131 - Python Programming |
+| Programming 1 | 4 | CIS 1500 - Intro to Programming |
 | Programming 2 | 4 | CIS 2353 - Data Structures |
 | Data Structures | 4 | ( new ) CIS 2390 - Advanced Data Structures and Algorithms Analysis |
 | Computer Organization | 4 | ( new ) CIS 2564 - Computer Organization, Architecture, and Assembly Language |
