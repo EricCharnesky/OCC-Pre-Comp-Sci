@@ -40,7 +40,7 @@ Students must meet the requirements set by the institution to which they plan on
 | Mathematics | Satisfied | Satisfied |
 | Social Sciences | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
 | Humanities and Fine Arts | 6 credits (2 courses from 2 disciplines) | Student choice<br>Student choice |
-| Natural Sciences (1 must include a lab) | 6+ credits (2 courses from 2 disciplines)<br>Total: 8 credits | PHY 2400- Engineering Physics I<br>Student choice (Not Physics) |
+| Natural Sciences (1 must include a lab) | 6+ credits (2 courses from 2 disciplines)<br>Total: 8-9 credits | PHY 2400- Engineering Physics I<br>Student choice (Not Physics) |
 
 **Credits: 26**  
 
@@ -81,7 +81,7 @@ Students must meet the requirements set by the institution to which they plan on
 |---------|---------:|
 | MAT 2600 - Statistics for Engineers and Scientists | 4 |
 | MAT 2880 - Linear Algebra | 4 |
-| CIS 2131 - Python Programming | 4 |
+| CIS 1500 - Intro to Programming | 4 |
 **Semester Total: 12 Credits**
 
 ---
