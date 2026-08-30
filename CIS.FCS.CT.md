@@ -2,7 +2,6 @@
 The Foundations of Computer Science Certficate program provides students with the academic foundation for futher studies in Computer Science
 
 ## Program Outcomes
-- Students will design, implement, test, and document software solutions using appropriate programming concepts, development practices, and problem-solving strategies.
 - Students will apply data structures, algorithms, and algorithm analysis techniques to evaluate and solve computational problems.
 - Students will apply mathematical, logical, and computer systems concepts to reason about computation, program behavior, and computer science problems.
 
