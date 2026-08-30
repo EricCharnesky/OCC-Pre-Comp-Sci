@@ -10,7 +10,7 @@ The Foundations of Computer Science Certficate program provides students with th
 ## Major Requirements
 
 | Credit Hours | Course |
-|----------|----------|----------|
+|----------|----------|
 | 4 | CIS 1500 - Intro to Programming |
 | 4 | CIS 2353 - Data Structures |
 | 4 | ( new ) CIS 2390 - Advanced Data Structures and Algorithms Analysis |
