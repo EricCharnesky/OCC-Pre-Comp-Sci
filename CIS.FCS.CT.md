@@ -8,16 +8,16 @@ The Foundations of Computer Science Certficate program provides students with th
 
 ## Major Requirements
 
-| Credit Hours | Course |
+| Course | Credit Hours | 
 |----------|----------|
-| 4 | CIS 1500 - Intro to Programming |
-| 4 | CIS 2353 - Data Structures |
-| 4 | ( new ) CIS 2390 - Advanced Data Structures and Algorithms Analysis |
-| 4 | ( new ) CIS 2564 - Computer Organization, Architecture, and Assembly Language |
-| 4 | CIS 2241 - Discrete Structures |
-| 4 | MAT 2880 - Linear Algebra ( Calc 2 is a pre-req ) |
-| 4 | MAT 2600 - Statistics for Engineers and Scientists ( Calc 2 is a pre-req ) |
-| 4 | CIS 2131 Python Programming or CIS 2252 C++ Programming or CIS 2757 C# Programming |
+| CIS 1500 - Intro to Programming | 4 |
+| CIS 2353 - Data Structures | 4 |
+| ( new ) CIS 2390 - Advanced Data Structures and Algorithms Analysis | 4 |
+| ( new ) CIS 2564 - Computer Organization, Architecture, and Assembly Language | 4 |
+| CIS 2241 - Discrete Structures | 4 |
+| MAT 2880 - Linear Algebra ( Calc 2 is a pre-req ) | 4 |
+| MAT 2600 - Statistics for Engineers and Scientists ( Calc 2 is a pre-req ) | 4 |
+| CIS 2131 - Python Programming or CIS 2252 - C++ Programming or CIS 2757 - C# Programming | 4 |
 **Credits: 32**
 
 
