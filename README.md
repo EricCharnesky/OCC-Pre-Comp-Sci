@@ -1,6 +1,8 @@
 # 2027-2028 Catalog Change Prosoal
 
-New [Associate of Science - Foundations of Computer Science](AS.FCS.md)
+New [Computer Information Systems - Foundations of Computer Science - Associate of Science](CIS.FCS.AS.md)
+
+New [Computer Information Systems - Foundations of Computer Science - Certificate](CIS.FCS.CT.md)
 
 New [CIS 2390 - Advanced Data Structures & Algorithms Analysis](CIS-2390.md)
 
