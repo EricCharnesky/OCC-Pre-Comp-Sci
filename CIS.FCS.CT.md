@@ -10,7 +10,7 @@ The Foundations of Computer Science Certficate program provides students with th
 
 | Course | Credit Hours | 
 |----------|----------|
-| CIS 1500 - Intro to Programming | 4 |
+| CIS 2131 - Python Programming | 4 |
 | CIS 2241 - Discrete Structures | 4 |
 | CIS 2353 - Data Structures | 4 |
 | CIS 2390 - Advanced Data Structures and Algorithms Analysis | 4 |
@@ -28,7 +28,7 @@ The Foundations of Computer Science Certficate program provides students with th
 
 | Course | Credits |
 |---------|---------:|
-| CIS 1500 - Intro to Programming | 4 |
+| CIS 2131 - Python Programming | 4 |
 | MAT 1740 - Calculus II | 4 |
 | MAT 2600 - Statistics for Engineers and Scientists | 4 |
 **Semester Total: 12 Credits**
